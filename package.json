@@ -26,7 +26,9 @@
     "husky": "^4.2.5",
     "node-sass": "^4.14.1",
     "parcel": "^1.12.4",
-    "stylelint": "^13.6.1"
+    "stylelint": "^13.6.1",
+    "predeploy": "npm run build",
+    "deploy": "./deploy.sh"
   },
   "husky": {
     "hooks": {
