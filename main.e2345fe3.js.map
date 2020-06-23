@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["sum","a","b"],"mappings":";AAAA,aAEA,SAASA,EAAIC,EAAGC,GACPD,OAAAA,EAAIC,EAGbF,EAAI,EAAG","file":"main.e2345fe3.js","sourceRoot":"..\\src","sourcesContent":["'use strict';\n\nfunction sum(a, b) {\n  return a + b;\n};\n\nsum(1, 2);\n"]}
