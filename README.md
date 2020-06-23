@@ -6,8 +6,8 @@
 - Run the template: `npm start`
 
 # New repo from this template
-- Click green button 'use this template'
-  https://prnt.sc/t4u0k0
+- Click green button
+  ![use this template](https://prnt.sc/t4u0k0)
 
 # Commands:
 - `start`: start template in browser
