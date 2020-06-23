@@ -12,7 +12,7 @@
     "lint": "concurrently \"npm run lint:js\" \"npm run lint:css\" \"npm run lint:html\"",
     "test": "jest ./src",
     "predeploy": "npm run build",
-    "deploy": "./deploy.sh"
+    "deploy": "bash deploy.sh"
   },
   "keywords": [],
   "author": "Denys Kondratiev",
